@@ -1,0 +1,25 @@
+body{
+    font-family: arial;
+    margin-left:50px;
+}
+.navbar > a {
+    color:grey;
+    font-size: 20px;
+    margin-right:50px;
+}
+.footer > a {
+    color:red;
+    font-size: 20px;
+    margin-right:50px;
+}
+.date{
+    color:grey;
+}
+.continue{
+    text-align: end;
+    margin-right: 30vw;
+    color:red
+}
+.copyright{
+    margin-top:20px
+}
