@@ -13,7 +13,7 @@ function Footer(){
         <a href="about">About</a>
         <a href="tips">Tips</a>
     </ul>
-    <>© 2013 Valet Industries, Inc</>
+    <div class = "trademark">© 2013 Valet Industries, Inc</div>
         </div>
     )};
 
